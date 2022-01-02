@@ -5,7 +5,7 @@ the video and do some processing to prepare it to fit into the Model.
 
 #### Accuracy on Training Data is : 99.1% 
 #### Accuracy on Test Data is : 97.5 %
-#### Data : was manually Detected and Labeled from camera videos in Egypt streeet 
+#### Data : was manually Detected and Labeled from camera videos in Egypt street 
 ![image](https://user-images.githubusercontent.com/83990621/147882194-1e948051-604f-42bd-9a03-50cb67f03c86.png)
 ![image](https://user-images.githubusercontent.com/83990621/147882206-1ff6b001-bf57-41c1-b5c2-8c2758da9e46.png)
 
