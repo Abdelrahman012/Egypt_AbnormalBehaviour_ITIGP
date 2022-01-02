@@ -9,13 +9,17 @@ the video and do some processing to prepare it to fit into the Model.
 
 The Model was an implementaion from research paper, you can find it in that [link](https://link.springer.com/article/10.1007/s42979-020-00207-x)
 
-Violenced Data:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fenglish.ahram.org.eg%2FNewsContent%2F1%2F0%2F19666%2FEgypt%2FIn-Egypt%2C-revolution-and-rogue-police-spell-street.aspx&psig=AOvVaw1l1UxKBMJC02TyYK5bKz3K&ust=1641226518749000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDHmra7k_UCFQAAAAAdAAAAABAD
 ## Research:
 ---------------------
 • Halder, R., Chatterjee, R. CNN-BiLSTM Model for Violence Detection in Smart Surveillance. 
 SN COMPUT. SCI. 1, 201 (2020).
 
-• School of Computer Engineering, KIIT Deemed to be University, Bhubaneswar 751024, Odisha, India
+• School of Computer Engineering, KIIT Deemed to be University, Bhubaneswar 751024, Odisha, India.
 
 ------------------------------------------------------------------------------------------------------------------------
+## Installation
+Requirements-Python 3.9 
+pip install -r /path/to/requirements.txt
+---------------------------------------------------------------------------
+## Run The App:
+Run File application.py 
