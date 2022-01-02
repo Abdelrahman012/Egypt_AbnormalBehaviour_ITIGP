@@ -14,7 +14,6 @@ The Model was an implementaion from research paper, you can find it in that [lin
 SN COMPUT. SCI. 1, 201 (2020).
 
 • School of Computer Engineering, KIIT Deemed to be University, Bhubaneswar 751024, Odisha, India
-![image](https://user-images.githubusercontent.com/83990621/147881862-3965e872-e510-428b-8132-87179e8bd434.png)
 
 ------------------------------------------------------------------------------------------------------------------------
 
