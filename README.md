@@ -39,4 +39,5 @@ pip install -r /path/to/requirements.txt
 ---------------------------------------------------------------------------
 ### Run The App:
 Run File application.py 
-![image](https://user-images.githubusercontent.com/83990621/147882226-198a50be-4dd7-4f52-bda8-c87b1ee87d81.png)
+![image](https://user-images.githubusercontent.com/83990621/147882270-acd446ad-22f6-4052-b559-cf1d7318db73.png)
+
